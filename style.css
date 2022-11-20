@@ -1,12 +1,26 @@
-.h1h2{
-        color: aqua;
-}
+
 
 .T1{  /*esta es la forma para seleccionar usando "class"*/
-    border: 1px; color: brown;
+    border: 1px; color: rgb(2, 2, 2);
+    text-align: center;
 }
 
 
-#pregunta{ /* esta es la forma para seleccionar usando ID*/
+#principal{ /* esta es la forma para seleccionar usando ID*/
     border: solid; color: black;
+}
+
+.correcto{
+    color: green;
+    
+}
+ 
+.incorrecto{
+    color: red;
+    text-align: right;
+}
+
+.intro{
+    text-align: center;
+    color: chocolate;
 }
