@@ -1,0 +1,12 @@
+.h1h2{
+        color: aqua;
+}
+
+.T1{  /*esta es la forma para seleccionar usando "class"*/
+    border: 1px; color: brown;
+}
+
+
+#pregunta{ /* esta es la forma para seleccionar usando ID*/
+    border: solid; color: black;
+}
