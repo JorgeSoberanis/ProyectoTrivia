@@ -6,19 +6,22 @@
 
 #principal{ /* esta es la forma para seleccionar usando ID*/
     border: solid; color: black;
+    
 }
 
-.correcto{
+.opciones{
   
-    text-align: center;
+    text-align: center; 
+    border: solid; color: rgb(153, 41, 41);
 }
  
-.incorrecto{
-    color: red;
-    text-align: right;
-}
-
 .intro{
     text-align: center;
     color: chocolate;
+}
+
+.imagen{
+    text-align: center;
+    height: 500;
+    width: 500;
 }
