@@ -1,18 +1,19 @@
 .T1{  /*esta es la forma para seleccionar usando "class"*/
-    border: 1px; color: rgb(2, 2, 2);
+    border: 1px; color: rgb(16, 183, 244);
     text-align: center;
+    size: 500 px;
 }
 
 
-#principal{ /* esta es la forma para seleccionar usando ID*/
-    border: solid; color: black;
+#principal{ /* esta es la forma para seleccionar usando ID */
+    border: solid; color: rgb(255, 255, 255);
     
 }
 
 .opciones{
   
     text-align: center; 
-    border: solid; color: rgb(153, 41, 41);
+    border: solid; color: rgb(255, 255, 255);
 }
  
 .intro{
@@ -26,8 +27,6 @@
     width: 500;
 }
 
-/*.body{
-    background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+.T2{
+    size: 500;
 }
-/*
-
